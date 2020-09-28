@@ -1,4 +1,5 @@
-![gif](https://media.giphy.com/media/3oKIPflGl47M4K2Puw/giphy.gif){:height="200px" width="200px"}
+![gif](https://media.giphy.com/media/3oKIPflGl47M4K2Puw/giphy.gif)
+<img src="https://media.giphy.com/media/3oKIPflGl47M4K2Puw/giphy.gif" width="150" height="150">
 <!--
 **effordDev/effordDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
