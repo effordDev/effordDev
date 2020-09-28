@@ -1,7 +1,4 @@
- ,___,
- (O,O)  Fun fact: A group    
- /)_)             of owls is
-  ""              called a parliament.    ![gif](https://media.giphy.com/media/3oKIPflGl47M4K2Puw/giphy.gif)
+![gif](https://media.giphy.com/media/3oKIPflGl47M4K2Puw/giphy.gif)
 <!--
 **effordDev/effordDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
