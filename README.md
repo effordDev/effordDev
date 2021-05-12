@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: A group of owls is called a parliament.
 -->
+![Metrics](https://metrics.lecoq.io/effordDev?template=classic&achievements=1&lines=1&isocalendar=1&followup=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=X&achievements.secrets=true&achievements.limit=14&config.timezone=America%2FNew_York)
 
-![Metrics](https://metrics.lecoq.io/effordDev?template=classic&config.timezone=America%2FNew_York)
 
