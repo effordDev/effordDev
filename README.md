@@ -1,5 +1,5 @@
 
-oh hey there<img src="https://media.giphy.com/media/10Mgxh2ctqqz9m/giphy.gif" width="50" height="50">
+oi <img src="https://media.giphy.com/media/10Mgxh2ctqqz9m/giphy.gif" width="50" height="50">
 
 ![Reids' Stats](https://github-readme-stats.vercel.app/api?username=efforddev&theme=radical&show_icons=true&count_private=true)
 
