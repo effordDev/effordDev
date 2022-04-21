@@ -1,6 +1,13 @@
 
-oi <img src="https://media.giphy.com/media/10Mgxh2ctqqz9m/giphy.gif" width="100" height="100"> Would you like to buy me a [☕](https://user-images.githubusercontent.com/36901822/164485344-76cf2f91-6892-457e-a6ff-cfd240251492.jpg)
-?
+  **hiii** <img src="https://media.giphy.com/media/10Mgxh2ctqqz9m/giphy.gif" width="100" height="100"> 
+
+<details>
+  <summary>
+    Would you like to buy me a ☕
+  </summary>
+  <img src="https://user-images.githubusercontent.com/36901822/164486768-4abc0b44-237e-4622-9739-b950a275f34b.jpg" width="260">
+</details>
+  
 
 ![Reids' Stats](https://github-readme-stats.vercel.app/api?username=efforddev&theme=radical&show_icons=true&count_private=true)
 
