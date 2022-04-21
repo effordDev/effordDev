@@ -1,5 +1,6 @@
 
-oi <img src="https://media.giphy.com/media/10Mgxh2ctqqz9m/giphy.gif" width="100" height="100">
+oi <img src="https://media.giphy.com/media/10Mgxh2ctqqz9m/giphy.gif" width="100" height="100"> Would you like to buy me a [☕](https://user-images.githubusercontent.com/36901822/164485344-76cf2f91-6892-457e-a6ff-cfd240251492.jpg)
+?
 
 ![Reids' Stats](https://github-readme-stats.vercel.app/api?username=efforddev&theme=radical&show_icons=true&count_private=true)
 
