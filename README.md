@@ -49,6 +49,10 @@ src="https://img.shields.io/github/followers/effordDev?logo=github&style=for-the
 
 ![Metrics](https://metrics.lecoq.io/effordDEv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York)
 
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/effordDev/sf-calendar" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=effordDev&repo=sf-calendar&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/effordDev/sf-address-verification" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=effordDev&repo=sf-address-verification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/reideffordT"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
