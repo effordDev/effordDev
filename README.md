@@ -34,6 +34,7 @@ src="https://img.shields.io/github/followers/effordDev?logo=github&style=for-the
 </p>
 
 * 🚀  I'm currently working on 🐱‍👤 [repo tokyo-tech](https://github.com/effordDev/tokyo-tech)  [tokyotech.us](https://www.tokyotech.us)
+* 🎶  Currently Listening to [🎧 Listen here](https://youtu.be/FrWAmyFcBT8)
 
 ### Socials
 
