@@ -55,8 +55,6 @@ src="https://img.shields.io/github/followers/effordDev?logo=github&style=for-the
 
 <a href="http://www.github.com/effordDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=effordDev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Metrics](https://metrics.lecoq.io/effordDEv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York)
-
 ### Support Me
 <a href="https://www.buymeacoffee.com/reideffordT"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
