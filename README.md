@@ -1,4 +1,4 @@
-hi <img src="https://media.giphy.com/media/10Mgxh2ctqqz9m/giphy.gif" width="100" height="100"> My name is Reid Efford
+hi <img src="https://media.giphy.com/media/10Mgxh2ctqqz9m/giphy.gif" width="100" height="100"> My name is Reid
 ============================
 
 Full Stack Salesforce Developer
