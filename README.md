@@ -52,9 +52,9 @@ src="https://img.shields.io/github/followers/effordDev?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-![Reid's GitHub stats](https://github-readme-stats.vercel.app/api?username=effordDev&show_icons=true&theme=tokyonight)
+[![Reid's GitHub stats](https://github-readme-stats.vercel.app/api?username=effordDev&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=effordDev&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=effordDev&theme=tokyonight)](https://git.io/streak-stats)
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/reideffordT"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
