@@ -9,6 +9,7 @@ Full Stack Salesforce Developer
 
 <a href="https://www.github.com/effordDev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/effordDev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![](https://komarev.com/ghpvc/?username=effordDev&style=for-the-badge&base=3000)
 
 ### Skills
 
