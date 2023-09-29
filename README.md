@@ -38,7 +38,12 @@ src="https://img.shields.io/github/followers/effordDev?logo=github&style=for-the
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-* 🚀  I'm currently working on 📄[repo sf-application](https://github.com/effordDev/sf-application) & ☁📆 [repo sf-calendar](https://github.com/effordDev/sf-calendar) 
+*  🚀  I'm currently working on:
+   *  📄 [sf-application](https://github.com/effordDev/sf-application)
+   *  📆 [sf-calendar](https://github.com/effordDev/sf-calendar) 
+   *  📒 [sf-radical-related-list](https://github.com/effordDev/sf-radical-related-list)
+   *  🌎 [sf-address-verification](https://github.com/effordDev/sf-address-verification)
+   *  📦 [sf-files-2-s3](https://github.com/effordDev/sf-files-2-s3)
 
 * 🐾  A site for my cat 🐱‍👤 [repo tokyo-tech](https://github.com/effordDev/tokyo-tech)  [tokyotech.us](https://www.tokyotech.us)
 
