@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/effordDev?logo=github&style=for-the
    *  🌎 [sf-address-verification](https://github.com/effordDev/sf-address-verification)
    *  📦 [sf-files-2-s3](https://github.com/effordDev/sf-files-2-s3)
 
-* 🐾  A site for my cat 🐱‍👤 [repo tokyo-tech](https://github.com/effordDev/tokyo-tech)  [tokyotech.us](https://www.tokyotech.us)
+*  [tokyotech.us](https://www.tokyotech.us)
 
 * 🎶  Currently Listening to [🎧 Listen here](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit?si=fd68be9b2da74839)
 
