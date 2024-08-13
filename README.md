@@ -49,7 +49,7 @@ src="https://img.shields.io/github/followers/effordDev?logo=github&style=for-the
 
 *  [tokyotech.us](https://www.tokyotech.us) - ([https://github.com/effordDev/portfolio](https://github.com/effordDev/portfolio))
 
-* 🎶  Currently Listening to [🎧 Listen here](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit?si=fd68be9b2da74839)
+* 🎶  Currently Listening to [🎧 Listen here](https://open.spotify.com/playlist/37i9dQZF1Fa1IIVtEpGUcU?si=03dd0b05cc4d48e3)
 
 ### Socials
 
