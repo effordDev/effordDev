@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/effordDev?logo=github&style=for-the
    *  📆 [sf-calendar](https://github.com/effordDev/sf-calendar) 
    *  📒 [sf-radical-related-list](https://github.com/effordDev/sf-radical-related-list)
    *  🌎 [sf-address-verification](https://github.com/effordDev/sf-address-verification)
-   *  📦 [sf-files-2-s3](https://github.com/effordDev/sf-files-2-s3)
+   *  📦 [sf-files-2-s3-sdk](https://github.com/effordDev/sf-files-2-s3-sdk)
 
 *  [tokyotech.us](https://www.tokyotech.us) - ([https://github.com/effordDev/portfolio](https://github.com/effordDev/portfolio))
 
