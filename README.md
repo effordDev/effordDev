@@ -15,6 +15,7 @@ src="https://img.shields.io/github/followers/effordDev?logo=github&style=for-the
 ### Skills
 
 <p align="left">
+ <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img width="36" height="36" alt="Supabase" src="https://github.com/user-attachments/assets/ffe34b9a-4fb1-4434-89b7-e28a96b20a9a" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://lwc.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36901822/197595672-f879b6e6-d15b-4561-bf99-dcb77d22de1d.png" width="36" height="36"></a>
 <a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1618575477781807105/iDuRlqTe_400x400.jpg" width="36" height="36"></a>
