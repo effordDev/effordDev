@@ -17,7 +17,8 @@ Have my projects help you? Consider buying me a coffee🍵
 
 <a href="https://www.buymeacoffee.com/reideffordT"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
 
-### Skills
+Use my theme! <a href="https://marketplace.visualstudio.com/items?itemName=effordDev.tokyo-panda-theme">VS Code Marketplace<a/> <a href="https://open-vsx.org/extension/effordDev/tokyo-panda-theme">Open VSX Registry<a/> 
+### Skills 
 
 <p align="left">
  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img width="36" height="36" alt="Supabase" src="https://github.com/user-attachments/assets/ffe34b9a-4fb1-4434-89b7-e28a96b20a9a" /></a>
