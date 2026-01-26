@@ -48,7 +48,6 @@ Use my theme! <a href="https://marketplace.visualstudio.com/items?itemName=effor
 </p>
 
 *  🚀  I'm currently working on:
-   *  📄 [sf-application](https://github.com/effordDev/sf-application)
    *  📆 [sf-calendar](https://github.com/effordDev/sf-calendar) 
    *  📒 [sf-radical-related-list](https://github.com/effordDev/sf-radical-related-list)
    *  🌎 [sf-address-verification](https://github.com/effordDev/sf-address-verification)
