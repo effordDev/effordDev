@@ -56,7 +56,7 @@ Use my theme! <a href="https://marketplace.visualstudio.com/items?itemName=effor
 
 *  [tokyotech.us](https://www.tokyotech.us) - ([https://github.com/effordDev/portfolio](https://github.com/effordDev/portfolio))
 
-* 🎶  Currently Listening to [🎧 Listen here](https://open.spotify.com/playlist/37i9dQZF1FoHAD6x20POz4?si=6b300ae919624e16&nd=1&dlsi=df21f190f7074e22)
+* 🎶  Currently Listening to [🎧 Listen here](https://open.spotify.com/playlist/37i9dQZEVXd2VSJtDsM20m?si=0c019b5dffcf4a7d)
 
 ### Socials
 
